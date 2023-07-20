@@ -10,7 +10,6 @@ body {
   background-image: url("../public/img/bg.jpg");
   overflow: hidden;
   position: relative;
-  color: #cd3535;
 }
 
 .flex1 {
